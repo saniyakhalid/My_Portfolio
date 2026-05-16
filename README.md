@@ -5,7 +5,6 @@ A modern, responsive personal portfolio website built using **React** and **Tail
 ---
 
 ## 🚀 Live Preview
-👉 (Add your deployed link here if available)
 
 ---
 
